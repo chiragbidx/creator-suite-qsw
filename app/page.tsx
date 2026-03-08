@@ -1,4 +1,4 @@
-import { SubscriptionDashboardDemo } from "../components/SubscriptionDashboardDemo";
+import { SubscriptionDashboardDemo } from "@/components/SubscriptionDashboardDemo";
 
 export const metadata = {
   title: "SubscriFlow – SaaS Subscription Management Dashboard",
